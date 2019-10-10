@@ -1,3 +1,4 @@
 # gitskills
 # this is the master message
-# this is want to conflict
+# this is want okkk to conflict
+# this is the okkk message
