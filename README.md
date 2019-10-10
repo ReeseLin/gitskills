@@ -1,2 +1,3 @@
 # gitskills
-# Creating a new branch is 666 quick.
+# this is the master message
+# this is want to conflict
