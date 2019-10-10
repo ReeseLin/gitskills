@@ -1,2 +1,2 @@
 # gitskills
-# Creating a new branch is 888 quick.
+# Creating a new branch is 666 quick.
